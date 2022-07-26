@@ -4,8 +4,8 @@ I am full time Professional Master's student at University of Colorado Boulder p
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Silicon Labs EFR32 Blue Gecko Bluetooth Starter Kit 
-- 🌱 I’m currently learning Embedded Firmware and Bluetooth Mesh Technology
+- 🔭 I’m currently working on Qualcomm QCC5141, developing peripheral drivers, test methods using PyDbg and GATT BLE services
+- 🌱 I’m currently learning firmware development and hardware designing
 - 😄 Pronouns: He/Him
 
 
